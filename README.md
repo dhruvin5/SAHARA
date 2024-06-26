@@ -6,7 +6,7 @@
 * Allows easy Order placing and Cancellation of orders
 * Gives detailed description of your past activities
 * Includes Feedback and Report system
-* Drive link: [Drive link here](https://drive.google.com/drive/folders/1JQmotPG7ITyEo4Vmhv_Fa6DmvM8bDBL7?usp=sharing)
+* Drive link: [Drive link here](https://drive.google.com/drive/folders/1GnDiIPLrvYZdkEJlDfX2yVp81hVvsf5S)
 
 
 ## Technology stack
@@ -24,7 +24,7 @@ Tools and technologies that you learnt and used in the project.
 
 Check the apk files included in this Repo. Install them on your device to test it.
 
-  [Download App APK](https://drive.google.com/file/d/15I7i4rjlqgggFRBI2VwU6Exhkj-94TgR/view?usp=sharing)
+  [Download App APK](https://drive.google.com/file/d/15I7i4rjlqgggFRBI2VwU6Exhkj-94TgRsview?usp=sharing)
 
  
 ## Usage
@@ -39,6 +39,6 @@ So maybe if we can integrate exisiting companies' APIs,it can be a great milesto
 
 
 ## ScreenRecording
-[ScreenRecording](https://drive.google.com/drive/folders/1-nY6M72Vs5cjbt_TmvYYkkc6FPmh5xX1?usp=sharing)
+[ScreenRecording](https://drive.google.com/drive/folders/1GnDiIPLrvYZdkEJlDfX2yVp81hVvsf5S)
 
 
